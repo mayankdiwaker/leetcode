@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankdiwaker/leetcode/tree/master/0001-two-sum) |
+| [2404-most-frequent-even-element](https://github.com/mayankdiwaker/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankdiwaker/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankdiwaker/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/mayankdiwaker/leetcode/tree/master/0242-valid-anagram) |
+| [2404-most-frequent-even-element](https://github.com/mayankdiwaker/leetcode/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/mayankdiwaker/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mayankdiwaker/leetcode/tree/master/0344-reverse-string) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/mayankdiwaker/leetcode/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
