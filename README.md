@@ -16,6 +16,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankdiwaker/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/mayankdiwaker/leetcode/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankdiwaker/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mayankdiwaker/leetcode/tree/master/0933-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankdiwaker/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
