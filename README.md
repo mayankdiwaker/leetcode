@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankdiwaker/leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mayankdiwaker/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/mayankdiwaker/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@
 | [0001-two-sum](https://github.com/mayankdiwaker/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankdiwaker/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/mayankdiwaker/leetcode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/mayankdiwaker/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/mayankdiwaker/leetcode/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [2404-most-frequent-even-element](https://github.com/mayankdiwaker/leetcode/tree/master/2404-most-frequent-even-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mayankdiwaker/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
